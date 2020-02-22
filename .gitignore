@@ -1,0 +1,5 @@
+*.csv
+*.sql
+*.pyc
+instance/
+venv/
